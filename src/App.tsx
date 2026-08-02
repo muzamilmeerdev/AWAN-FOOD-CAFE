@@ -570,7 +570,8 @@ export default function App() {
             </a>
           </div>
           <div className="border-t border-amber-900/20 pt-6">
-            <p className="text-[#6b5040] text-xs">© 2024 Awan Food Cafe. Made with ❤️ in india</p>
+            <p className="text-[#6b5040] text-xs">© 2026 Awan Food Cafe. All Rights Reserved.
+Website Designed & Developed by Muzamil Ahmad Mir</p>
           </div>
         </div>
       </footer>
