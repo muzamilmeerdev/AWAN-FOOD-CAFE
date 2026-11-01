@@ -117,7 +117,7 @@ const BADGE_STYLE: Record<string, string> = {
   'Signature': 'bg-sky-600 text-white',
 }
 
-const WA_NUMBER = '919103594759'
+const WA_NUMBER = '917051488376'
 
 // ─── Helpers ──────────────────────────────────────────────────────────────────
 const fmt = (n: number) => '₹' + n.toLocaleString('en-IN')
@@ -527,7 +527,7 @@ export default function App() {
         <div className="grid grid-cols-1 sm:grid-cols-3 gap-5">
           {[
             { icon: '📍', label: 'Address', value: 'Bandipora main Market' },
-            { icon: '📞', label: 'Phone / WhatsApp', value: '+919103594759' },
+            { icon: '📞', label: 'Phone / WhatsApp', value: '+917051488376' },
             { icon: '🕐', label: 'Opening Hours', value: 'Monday – Sunday\n9:00 AM – 10:00 PM' },
           ].map(info => (
             <div key={info.label} className="flex items-start gap-4 p-5 bg-white dark:bg-[#1a1610] rounded-2xl border border-amber-50 dark:border-amber-900/15 hover:shadow-lg transition-shadow">
@@ -563,7 +563,7 @@ export default function App() {
               <WAIcon className="w-4 h-4 fill-white" /> WhatsApp
             </a>
             <a
-              href="tel:+919103594759"
+              href="tel:+917051488376"
               className="flex items-center gap-2 px-6 py-3 bg-amber-500 hover:bg-amber-600 text-black font-bold rounded-full transition-all hover:scale-105 text-sm shadow-lg shadow-amber-500/30"
             >
               📞 Call Us
