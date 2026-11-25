@@ -527,7 +527,7 @@ export default function App() {
         <div className="grid grid-cols-1 sm:grid-cols-3 gap-5">
           {[
             { icon: '📍', label: 'Address', value: 'Bandipora main Market' },
-            { icon: '📞', label: 'Phone / WhatsApp', value: '+917051488376' },
+            { icon: '📞', label: 'Phone / WhatsApp', value: '+919103491749' },
             { icon: '🕐', label: 'Opening Hours', value: 'Monday – Sunday\n9:00 AM – 10:00 PM' },
           ].map(info => (
             <div key={info.label} className="flex items-start gap-4 p-5 bg-white dark:bg-[#1a1610] rounded-2xl border border-amber-50 dark:border-amber-900/15 hover:shadow-lg transition-shadow">
