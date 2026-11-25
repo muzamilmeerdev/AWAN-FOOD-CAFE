@@ -563,7 +563,7 @@ export default function App() {
               <WAIcon className="w-4 h-4 fill-white" /> WhatsApp
             </a>
             <a
-              href="tel:+917051488376"
+              href="tel:+919103491749"
               className="flex items-center gap-2 px-6 py-3 bg-amber-500 hover:bg-amber-600 text-black font-bold rounded-full transition-all hover:scale-105 text-sm shadow-lg shadow-amber-500/30"
             >
               📞 Call Us
