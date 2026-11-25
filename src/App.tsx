@@ -117,7 +117,7 @@ const BADGE_STYLE: Record<string, string> = {
   'Signature': 'bg-sky-600 text-white',
 }
 
-const WA_NUMBER = '917051488376'
+const WA_NUMBER = '919103491749'
 
 // ─── Helpers ──────────────────────────────────────────────────────────────────
 const fmt = (n: number) => '₹' + n.toLocaleString('en-IN')
